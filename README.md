@@ -1,2 +1,3 @@
 # mp_paper_experiments
-Numerical experiments of multi-penalty framework vs other sparse encoders
+This repository contains numerical experiments for the paper "Extension of the
+Lasso-path algorithm to multi-penalty regularization"
