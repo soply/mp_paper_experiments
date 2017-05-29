@@ -20,3 +20,11 @@ Specifically, we consider the following experiments:
   - As in (2) but with additional knowledge on the sparsity level of the generating support.
   - The number of support candidates that are produced by solving (1) with different combinations of regularization parameters alpha, beta.
 
+To compare the results, we use some common compressed sensing techniques, namely:
+  
+  -Orthogonal Matching Pursuit
+  -l1-regularization
+  -iterative hard thresholding
+  -a preconditioned version of l1-regularization
+  
+More details on the experiments is provided in the respective notebooks.
