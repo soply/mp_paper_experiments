@@ -27,4 +27,5 @@ To compare the results, we use some common compressed sensing techniques, namely
   - iterative hard thresholding
   - a preconditioned version of l1-regularization
   
+The code to the methods with which we compare our method can be found in https://github.com/soply/https://github.com/soply/sparse_encoder_testsuite.
 More details on the experiments is provided in the respective notebooks.
